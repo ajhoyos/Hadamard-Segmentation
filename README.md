@@ -12,6 +12,6 @@ improves the accuracy of segmentation tasks by using a novel class encoding.
 This repository has a training example of our work using the Pix2Pix architecture 
 with some variants and the CelebA-Mask-HQ dataset. 
 
-In the future, we will add more models and details of our implementation.
-
 <img src='https://github.com/ajhoyos/Hadamard-Segmentation/blob/main/hadamard_pix2pix.png'>
+
+In the future, we will add more models and details of our implementation.
