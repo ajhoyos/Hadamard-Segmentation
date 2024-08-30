@@ -5,8 +5,6 @@ See https://doi.org/10.1109/ICASSP49357.2023.10095190 or https://doi.org/10.1007
 This Work has been submitted to the IEEE Access for possible publication. Copyright may be transferred without notice, after which previous versions may
 no longer be accessible.
 
-<img src='https://github.com/ajhoyos/Hadamard-Segmentation/blob/main/hadamard_pix2pix.png'>
-
 
 ## Introduction 
 This work introduces the Hadamard Layer, a parameters training free that 
@@ -15,3 +13,5 @@ This repository has a training example of our work using the Pix2Pix architectur
 with some variants and the CelebA-Mask-HQ dataset. 
 
 In the future, we will add more models and details of our implementation.
+
+<img src='https://github.com/ajhoyos/Hadamard-Segmentation/blob/main/hadamard_pix2pix.png'>
