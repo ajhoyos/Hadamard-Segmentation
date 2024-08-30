@@ -5,7 +5,7 @@ See https://doi.org/10.1109/ICASSP49357.2023.10095190 or https://doi.org/10.1007
 This Work has been submitted to the IEEE Access for possible publication. Copyright may be transferred without notice, after which previous versions may
 no longer be accessible.
 
-<img src='https://github.com/ajhoyos/Hadamard-Segmentation/blob/main/results_celeba.png'>
+<img src='https://github.com/ajhoyos/Hadamard-Segmentation/blob/main/hadamard_pix2pix.png'>
 
 
 ## Introduction 
